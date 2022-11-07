@@ -1,0 +1,2 @@
+Train loss: 1.783.. valid loss: 0.675.. valid accuracy: 0.853
+test loss: 0.741.. test accuracy: 0.843
